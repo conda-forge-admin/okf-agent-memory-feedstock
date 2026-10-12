@@ -1,5 +1,5 @@
 context:
-  version: "0.6.0"
+  version: "0.6.1"
 
 package:
   name: okf-agent-memory
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/okf-memory/okf-agent-memory/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 62b10a67706c4b29c4d39f8c01087957ce119dd1d6b164153b9092159af8ca94
+  sha256: 276b0105e52d1a81d53fa687c736b76db567b849ee7a9945ead2da7ec99770bd
 
 build:
   number: 0
